@@ -30,7 +30,7 @@ gcloud auth application-default login
 
 after run above json file will be created for terraform  
 
-C:\Users\veera\AppData\Roaming\gcloud\application_default_credentials.json
+C:\Users\Dell\AppData\Roaming\gcloud\application_default_credentials.json
 
 terraform init 
 
